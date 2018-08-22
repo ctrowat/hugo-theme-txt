@@ -1,0 +1,18 @@
+name = "TXT"
+license = "Creative Commons"
+licenselink = "https://github.com/ctrowat/hugo-theme-txt/blob/master/LICENSE"
+description = "An elegant open-source and mobile-first theme"
+homepage = "https://html5up.net/txt"
+tags = ["blog", "html5up"]
+features = ["blog"]
+min_version = 0.46
+
+[author]
+    name = "Chris Rowat"
+    homepage = "https://erratic.space/"
+
+# If porting an existing theme
+[original]
+    author = "HTML5UP"
+    homepage = "https://html5up.net"
+    repo = "https://html5up.net/txt"

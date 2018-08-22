@@ -1,0 +1,24 @@
+{
+  "name": "hugo-theme-txt",
+  "version": "1.0.0",
+  "description": "Hugo Theme TXT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrowat/hugo-theme-txt.git"
+  },
+  "keywords": [
+    "hugo",
+    "hugo-theme",
+    "txt"
+  ],
+  "author": "Chris Rowat",
+  "license": "Creative Commons Attribution",
+  "bugs": {
+    "url": "https://github.com/ctrowat/hugo-theme-txt/issues"
+  },
+  "homepage": "https://github.com/ctrowat/hugo-theme-txt#readme"
+}
